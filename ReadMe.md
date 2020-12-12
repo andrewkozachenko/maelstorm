@@ -14,5 +14,5 @@
     Install Tomcat using zip file.
     Setup JAVA_HOME or JRE_HOME, CATALINA_HOME or CATALINA_OPS
     Learn what is:
-    - 
+    - dfdfd
     Run Tomcat
